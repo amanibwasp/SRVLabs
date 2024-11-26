@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\SRVLabs\\Morozov2Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14E4CC23-3EC1-4B8A-9C5F-91BF62F644C0}|Morozov2Lab\\Morozov2Lab.vcxproj|C:\\Users\\User\\Desktop\\SRVLabs\\Morozov2Lab\\Morozov2Lab\\Morozov2Lab.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14E4CC23-3EC1-4B8A-9C5F-91BF62F644C0}|Morozov2Lab\\Morozov2Lab.vcxproj|solutionrelative:Morozov2Lab\\Morozov2Lab.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Morozov2Lab.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SRVLabs\\Morozov2Lab\\Morozov2Lab\\Morozov2Lab.cpp",
+              "RelativeDocumentMoniker": "Morozov2Lab\\Morozov2Lab.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SRVLabs\\Morozov2Lab\\Morozov2Lab\\Morozov2Lab.cpp",
+              "RelativeToolTip": "Morozov2Lab\\Morozov2Lab.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T11:19:29.556Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
