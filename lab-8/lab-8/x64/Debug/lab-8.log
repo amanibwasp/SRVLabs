@@ -1,0 +1,3 @@
+﻿  lab-8.cpp
+C:\Users\User\Desktop\SRVLabs\lab-8\lab-8\lab-8.cpp(81,1): warning C4715: Reader::read: значение возвращается не при всех путях выполнения
+  lab-8.vcxproj -> C:\Users\User\Desktop\SRVLabs\lab-8\x64\Debug\lab-8.exe
